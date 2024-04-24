@@ -10,6 +10,7 @@ This project aims to analyze sales data from Walmart, focusing on various aspect
 
 1. Walmart_sales.sql
 2. WalmartSalesData.csv
+3. Walmart_sales_vis.pbix
 
 # Dataset:
 The dataset used in this project comprises detailed transaction records from Walmart, including information such as invoice ID, branch location, customer type, product details, sales revenue, and customer ratings. It provides a rich source of information for conducting in-depth analysis and extracting meaningful insights into various aspects of Walmart's sales operations.
